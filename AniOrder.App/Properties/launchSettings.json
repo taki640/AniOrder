@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AniOrder.App": {
+      "commandName": "Project",
+      "commandLineArgs": "https://anilist.co/anime/356/Fatestay-night/ -f results.txt"
+    }
+  }
+}
